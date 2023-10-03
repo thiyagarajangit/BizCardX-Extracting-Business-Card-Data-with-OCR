@@ -11,12 +11,12 @@ and pin code. The extracted information should then be displayed in the applicat
 1.  **Scripting Language** - ***Python***
 2.  **GUI** - ***Streamlit***
 3.  **Libraries** - ***pandas, mysql-connector***
-4.  **Database** - *** MySQL***
+4.  **Database** - ***MySQL***
 5.  **ImageProcessing - ***EasyOCR***
 
 **Links:-**
 ---------
-1.  Github - 
+1.  Github - https://github.com/thiyagarajangit/BizCardX-Extracting-Business-Card-Data-with-OCR/
 2.  linkedin - 
 3.  Project Demo Video - 
 
