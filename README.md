@@ -24,8 +24,10 @@ and pin code. The extracted information should then be displayed in the applicat
 -----------
 In this Streamlit application, users can upload a business card image and extract relevant information using easyOCR. Users have the option to view, modify, or delete the extracted data within the app. Additionally, this application enables users to save the extracted information, along with the uploaded business card image, into a database. The database is designed to store multiple entries, each with its own business card image and extracted information.
 
-**GUI Sample Output:-**
+**GUI & MySQL Sample Output:-**
 -------------------
-
-**MySQL Table Samples:-**
------------------------
+![image](https://github.com/thiyagarajangit/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142799337/b6b8d9c0-86a8-4b78-9286-1f74a4bdcc60)
+![image](https://github.com/thiyagarajangit/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142799337/962a0e65-00af-4833-95e3-f6da785f1423)
+![image](https://github.com/thiyagarajangit/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142799337/e130def8-fee8-4600-bcee-cba24d454dff)
+![image](https://github.com/thiyagarajangit/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142799337/d9c5f8e6-c699-4bb9-a88a-91bc5ba1bc19)
+![image](https://github.com/thiyagarajangit/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142799337/c69076e2-769b-4ac5-a7fa-0f53ca315c1d)
