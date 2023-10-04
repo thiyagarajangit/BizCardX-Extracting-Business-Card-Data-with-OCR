@@ -17,8 +17,8 @@ and pin code. The extracted information should then be displayed in the applicat
 **Links:-**
 ---------
 1.  Github - https://github.com/thiyagarajangit/BizCardX-Extracting-Business-Card-Data-with-OCR/
-2.  linkedin - 
-3.  Project Demo Video - 
+2.  linkedin - https://www.linkedin.com/feed/update/urn:li:share:7115188366584791040/
+3.  Project Demo Video - https://youtu.be/KRhRPot2pic
 
 **Results:-**
 -----------
